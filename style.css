@@ -23,14 +23,15 @@ body {
   align-items: center;
   overflow: hidden;
 
-  background: url("/img/Dolidze.jpg") center center no-repeat;
+  background: url("/img/pexels-engin-akyurt-1435517.jpg") center center
+    no-repeat;
   /* damit wird das bild auf den Container skaliert */
   background-size: 100%;
   transition: 0.5s ease;
 }
 
 .card:hover {
-  background: url("/img/Dolidze.jpg") right center no-repeat;
+  background: url("/img/pexels-engin-akyurt-1435517.jpg") right center no-repeat;
   /* damit wird das bild auf den Container skaliert */
   background-size: 150%;
 }
